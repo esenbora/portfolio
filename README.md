@@ -63,4 +63,4 @@ This project is open source and available for personal use.
 
 ## Contact
 
-For any questions or suggestions, please contact Bora Esen at bora.esen@outlook.com.tr
+For any questions or suggestions, please contact Bora Esen at bora.esn@outlook.com.tr
